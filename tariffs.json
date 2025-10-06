@@ -1,0 +1,8 @@
+{
+  "asOf": "2025-10-01",
+  "logopaedie": { "min45": 71.67, "min60": 91.21 },
+  "ergotherapie": { "min45": 59.02, "min60": 75.91, "fallbackLabel": "75 Min (psych.-funktionell)", "fallbackPrice": 94.89 },
+  "physiotherapie": { "fallbackLabel": "KG Einzel (15–25 Min)", "fallbackPrice": 30.03 },
+  "podologie": { "fallbackLabel": "Podologische Behandlung (groß)", "fallbackPrice": 50.55 },
+  "ernaehrung": { "min45": 39.82, "min60": 79.66 }
+}
